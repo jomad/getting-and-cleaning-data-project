@@ -101,7 +101,7 @@ The measured parameters or variable names (features) are modified to become more
 
 
 ## Activity Labels
-The following are activity where variables are measured, having the initial respective codes as "1", "2", "3", "4" and "5"
+The following are different activities where variables are measured, having the initial respective codes as "1", "2", "3", "4" and "5"
 
 * `WALKING`: subject was walking during the test
 * `WALKING_UPSTAIRS` : subject was walking up a staircase during the test

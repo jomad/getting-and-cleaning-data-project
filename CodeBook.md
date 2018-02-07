@@ -9,6 +9,7 @@ Codebook that describves the variables in the resulting data set called `tidyDat
 * `Test or Train` - Type of the trials done
 
 ## Measurements
+* The measured parameters or variable names (features) are modified to become more readable and descriptive resulting to the following variables:
 
 *  `BodyAcc mean X`
 *  `BodyAcc mean Y`
@@ -100,6 +101,7 @@ Codebook that describves the variables in the resulting data set called `tidyDat
 
 
 ## Activity Labels
+* The following are activity where variables are measured, having the initial respective codes as "1", "2", "3", "4" and "5"
 
 * `WALKING`: subject was walking during the test
 * `WALKING_UPSTAIRS` : subject was walking up a staircase during the test
